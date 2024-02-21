@@ -4,7 +4,6 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
-import rpg_lab.*;
 
 public class HeroTest {
     private final static int TARGET_EXPERIENCE = 10;
