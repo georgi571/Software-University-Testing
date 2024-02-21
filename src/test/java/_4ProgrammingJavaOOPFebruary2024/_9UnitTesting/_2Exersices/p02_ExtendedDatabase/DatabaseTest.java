@@ -8,7 +8,7 @@ import javax.naming.OperationNotSupportedException;
 
 public class DatabaseTest {
     public Database database;
-    private static final Person[] PEOPLE = {new Person(1, "Cross Marian"), new Person(2, "Klaud Nine"), new Person(3, " Froi Tiedoll")};
+    private static final Person[] PEOPLE = {new Person(1, "Cross Marian"), new Person(2, "Klaud Nine"), new Person(3, "Froi Tiedoll")};
     private static final int SIZE_MORE_THAN_16 = 17;
     private static final int SIZE_LESS_THAN_1 = 0;
     private static final Person ELEMENT_TO_ADD = new Person(4, "Winters Socalo");
