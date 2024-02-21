@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="499513b4-c578-4d42-bad9-85e2c9b74f0c" name="Changes" comment="add .idea" />
+    <list default="true" id="499513b4-c578-4d42-bad9-85e2c9b74f0c" name="Changes" comment="add .idea">
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/DatabaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p01_Database/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p01_Database/DatabaseTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,31 +37,109 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="DatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DatabaseTest (1)">
+    <configuration name="DatabaseTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p01_Database.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p01_Database" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p01_Database.DatabaseTest" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.DatabaseTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTest.findByUserIDMoreThanOnePerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Software_University-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.DatabaseTest" />
+      <option name="METHOD_NAME" value="findByUserIDMoreThanOnePerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTest.findByUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Software_University-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.DatabaseTest" />
+      <option name="METHOD_NAME" value="findByUserName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTest.findByUserNameThrowEmptyDateBase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Software_University-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.DatabaseTest" />
+      <option name="METHOD_NAME" value="findByUserNameThrowEmptyDateBase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTest.testConstructorHasCreateValidObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Software_University-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.DatabaseTest" />
+      <option name="METHOD_NAME" value="testConstructorHasCreateValidObject" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DatabaseTest" />
+        <item itemvalue="JUnit.DatabaseTest (1)" />
+        <item itemvalue="JUnit.DatabaseTest.findByUserIDMoreThanOnePerson" />
+        <item itemvalue="JUnit.DatabaseTest.findByUserNameThrowEmptyDateBase" />
+        <item itemvalue="JUnit.DatabaseTest.findByUserName" />
+        <item itemvalue="JUnit.DatabaseTest.testConstructorHasCreateValidObject" />
       </list>
     </recent_temporary>
   </component>
@@ -84,12 +176,25 @@
       <option name="project" value="LOCAL" />
       <updated>1708539895606</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add .idea">
+      <option name="closed" value="true" />
+      <created>1708540238724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708540238724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add solution" />
     <MESSAGE value="add .idea" />
     <option name="LAST_COMMIT_MESSAGE" value="add .idea" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Software_University_Testing$DatabaseTest__1_.ic" NAME="DatabaseTest (1) Coverage Results" MODIFIED="1708544331783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -42,7 +42,7 @@ public class DatabaseTest {
 
     @Test
     public void testAddShouldAddElement() throws OperationNotSupportedException {
-        database.add(67);
+        database.add(ELEMENT_TO_ADD);
         Assert.assertEquals(database.getElements().length, NUMBERS.length + 1);
         Assert.assertEquals(database.getElements()[database.getElements().length - 1], Integer.valueOf(ELEMENT_TO_ADD));
     }
