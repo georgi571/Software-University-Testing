@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499513b4-c578-4d42-bad9-85e2c9b74f0c" name="Changes" comment="add solution">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_1Lab/Instock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_1Lab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_1Lab/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_1Lab/ProductStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_1Lab/InstockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/Chainblock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/ChainblockImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/TransactionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/TransactionStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/ChainblockImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p01_Database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p01_Database/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p02_ExtendedDatabase/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p02_ExtendedDatabase/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p03_IteratorTest/ListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p03_IteratorTest/ListIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p04_BubbleSortTest/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p04_BubbleSortTest/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p05_CustomLinkedList/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p05_CustomLinkedList/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p06_TirePressureMonitoringSystem/Alarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p06_TirePressureMonitoringSystem/Alarm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p06_TirePressureMonitoringSystem/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p06_TirePressureMonitoringSystem/Sensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p01_Database/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p01_Database/DatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p02_ExtendedDatabase/DatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p03_IteratorTest/ListIteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p03_IteratorTest/ListIteratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p04_BubbleSortTest/BubbleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p04_BubbleSortTest/BubbleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p05_CustomLinkedList/CustomLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p05_CustomLinkedList/CustomLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p06_TirePressureMonitoringSystem/AlarmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p06_TirePressureMonitoringSystem/AlarmTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,88 +72,88 @@
       <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p05_CustomLinkedList" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p03_IteratorTest" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p04_BubbleSortTest" />
-      <recent name="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p06_TirePressureMonitoringSystem" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.InstockTest">
-    <configuration name="InstockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ChainblockImplTest">
+    <configuration name="ChainblockImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.InstockTest" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.ChainblockImplTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstockTest.testFindAllInRangeReturnTheCorrectRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChainblockImplTest.testGetAllInAmountRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.InstockTest" />
-      <option name="METHOD_NAME" value="testFindAllInRangeReturnTheCorrectRange" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.ChainblockImplTest" />
+      <option name="METHOD_NAME" value="testGetAllInAmountRange" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstockTest.testFindAllInRangeReturnTheCorrectRangeAndInCorrectOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChainblockImplTest.testGetAllInAmountRangeEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.InstockTest" />
-      <option name="METHOD_NAME" value="testFindAllInRangeReturnTheCorrectRangeAndInCorrectOrder" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.ChainblockImplTest" />
+      <option name="METHOD_NAME" value="testGetAllInAmountRangeEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstockTest.testFindAllInRangeShouldEmptyCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChainblockImplTest.testGetByInvalidReceiverAndAmountRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.InstockTest" />
-      <option name="METHOD_NAME" value="testFindAllInRangeShouldEmptyCollection" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.ChainblockImplTest" />
+      <option name="METHOD_NAME" value="testGetByInvalidReceiverAndAmountRange" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstockTest.testFindAllInRangeShouldReturnTheCorrectRangeAndInCorrectOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChainblockImplTest.testGetByReceiverAndAmountRangeEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.InstockTest" />
-      <option name="METHOD_NAME" value="testFindAllInRangeShouldReturnTheCorrectRangeAndInCorrectOrder" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.ChainblockImplTest" />
+      <option name="METHOD_NAME" value="testGetByReceiverAndAmountRangeEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InstockTest" />
-        <item itemvalue="JUnit.InstockTest.testFindAllInRangeReturnTheCorrectRange" />
-        <item itemvalue="JUnit.InstockTest.testFindAllInRangeReturnTheCorrectRangeAndInCorrectOrder" />
-        <item itemvalue="JUnit.InstockTest.testFindAllInRangeShouldReturnTheCorrectRangeAndInCorrectOrder" />
-        <item itemvalue="JUnit.InstockTest.testFindAllInRangeShouldEmptyCollection" />
+        <item itemvalue="JUnit.ChainblockImplTest" />
+        <item itemvalue="JUnit.ChainblockImplTest.testGetAllInAmountRangeEmpty" />
+        <item itemvalue="JUnit.ChainblockImplTest.testGetAllInAmountRange" />
+        <item itemvalue="JUnit.ChainblockImplTest.testGetByReceiverAndAmountRangeEmpty" />
+        <item itemvalue="JUnit.ChainblockImplTest.testGetByInvalidReceiverAndAmountRange" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708554012701</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add solution">
+      <option name="closed" value="true" />
+      <created>1708729576725</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708729576725</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,8 +270,14 @@
     <SUITE FILE_PATH="coverage/Software_University_Testing$AlarmTest.ic" NAME="AlarmTest Coverage Results" MODIFIED="1708546096311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p06_TirePressureMonitoringSystem.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Software_University_Testing$InstockTest.ic" NAME="InstockTest Coverage Results" MODIFIED="1708729441512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Software_University_Testing$DatabaseTest_findByUserIDMoreThanOnePerson.ic" NAME="DatabaseTest.findByUserIDMoreThanOnePerson Coverage Results" MODIFIED="1708544835911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p02_ExtendedDatabase.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Software_University_Testing$ChainblockImplTest_testGetAllReceiversWithTransactionStatus.ic" NAME="ChainblockImplTest.testGetAllReceiversWithTransactionStatus Coverage Results" MODIFIED="1708768719111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Software_University_Testing$CustomLinkedListTest.ic" NAME="CustomLinkedListTest Coverage Results" MODIFIED="1708553652693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p05_CustomLinkedList.*</FILTER>
