@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499513b4-c578-4d42-bad9-85e2c9b74f0c" name="Changes" comment="add solution">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/Chainblock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/ChainblockImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/TransactionImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/TransactionStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_10TestDrivenDevelopment/_2Exercises/ChainblockImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_01JavaOOPRetakeExam19December2023/stuntClimb/Climbing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_01JavaOOPRetakeExam19December2023/stuntClimb/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_01JavaOOPRetakeExam19December2023/stuntClimb/RockClimber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_01JavaOOPRetakeExam19December2023/stuntClimb/ClimbingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p01_Database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p01_Database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p02_ExtendedDatabase/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p02_ExtendedDatabase/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p03_IteratorTest/ListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p03_IteratorTest/ListIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p04_BubbleSortTest/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p04_BubbleSortTest/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p05_CustomLinkedList/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p05_CustomLinkedList/CustomLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p06_TirePressureMonitoringSystem/Alarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p06_TirePressureMonitoringSystem/Alarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p06_TirePressureMonitoringSystem/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p06_TirePressureMonitoringSystem/Sensor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p01_Database/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p01_Database/DatabaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p02_ExtendedDatabase/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p02_ExtendedDatabase/DatabaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p03_IteratorTest/ListIteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p03_IteratorTest/ListIteratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p04_BubbleSortTest/BubbleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p04_BubbleSortTest/BubbleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p05_CustomLinkedList/CustomLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p05_CustomLinkedList/CustomLinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exersices/p06_TirePressureMonitoringSystem/AlarmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_9UnitTesting/_2Exercises/p06_TirePressureMonitoringSystem/AlarmTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +37,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "last_opened_file_path": "D:/SoftwareUniversity/Software-University-Testing/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_01JavaOOPRetakeExam19December2023"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftwareUniversity\Software-University-Testing\src\main\java\_4ProgrammingJavaOOPFebruary2024\_2JavaOOPExamPreparation\_01JavaOOPRetakeExam19December2023" />
+      <recent name="D:\SoftwareUniversity\Software-University-Testing\src\test\java\_4ProgrammingJavaOOPFebruary2024" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="junit.framework.TestCase" />
@@ -72,11 +60,11 @@
       <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._01JavaOOPRetakeExam19December2023.stuntClimb" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p05_CustomLinkedList" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p03_IteratorTest" />
-      <recent name="_4ProgrammingJavaOOPFebruary2024._9UnitTesting._2Exersices.p04_BubbleSortTest" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.ChainblockImplTest">
@@ -258,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708729576725</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add solution">
+      <option name="closed" value="true" />
+      <created>1708780039838</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708780039838</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
