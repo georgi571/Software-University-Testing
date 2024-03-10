@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499513b4-c578-4d42-bad9-85e2c9b74f0c" name="Changes" comment="add solution">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_04JavaOOPRegularExam5August2023/bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_04JavaOOPRegularExam5August2023/bank/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_04JavaOOPRegularExam5August2023/bank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_04JavaOOPRegularExam5August2023/bank/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_05JavaOOPRegularExam8April2023/robots/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_05JavaOOPRegularExam8April2023/robots/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_05JavaOOPRegularExam8April2023/robots/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_05JavaOOPRegularExam8April2023/robots/ServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_04JavaOOPRegularExam5August2023/bank/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_04JavaOOPRegularExam5August2023/bank/BankTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +63,14 @@
       <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._04JavaOOPRegularExam5August2023.bank" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._03JavaOOPRetakeExam15August2023.handball" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._02JavaOOPRegularExam9December2023.scubaDive" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._01JavaOOPRetakeExam19December2023.stuntClimb" />
-      <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BankTest">
+  <component name="RunManager" selected="JUnit.ServiceTest">
     <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
@@ -101,32 +102,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChainblockImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._2Exercises.ChainblockImplTest" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots.ServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ServiceTest.testForSale" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._02JavaOOPRegularExam9December2023.scubaDive.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._02JavaOOPRegularExam9December2023.scubaDive" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._02JavaOOPRegularExam9December2023.scubaDive.DivingTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots.ServiceTest" />
+      <option name="METHOD_NAME" value="testForSale" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ServiceTest" />
+        <item itemvalue="JUnit.ServiceTest.testForSale" />
         <item itemvalue="JUnit.BankTest" />
         <item itemvalue="JUnit.BankTest.testStatistics" />
         <item itemvalue="JUnit.TeamTest" />
-        <item itemvalue="JUnit.DivingTest" />
-        <item itemvalue="JUnit.ChainblockImplTest" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710055878070</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add solution">
+      <option name="closed" value="true" />
+      <created>1710056958235</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710056958235</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

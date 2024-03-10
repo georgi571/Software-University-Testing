@@ -64,7 +64,7 @@ public class BankTest {
     }
 
     @Test
-    public void loanWithdrawal() {
+    public void testLoanWithdrawal() {
         bank.loanWithdrawal("Client1");
         Assert.assertFalse(client.isApprovedForLoan());
     }
