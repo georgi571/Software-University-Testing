@@ -18,22 +18,22 @@ public class ClimbingTest {
     }
 
     @Test
-    public void getCount() {
+    public void testGetCount() {
         Assert.assertEquals(1, climbing.getCount());
     }
 
     @Test
-    public void getName() {
+    public void testGetName() {
         Assert.assertEquals("Mountain1", climbing.getName());
     }
 
     @Test
-    public void getCapacity() {
+    public void testGetCapacity() {
         Assert.assertEquals(2, climbing.getCapacity());
     }
 
     @Test(expected = IllegalArgumentException.class)
-    public void addRockClimberNoFreeSpace() throws IllegalArgumentException{
+    public void testAddRockClimberNoFreeSpace() throws IllegalArgumentException{
         RockClimber rockClimber2 = new RockClimber("rock2", 2.50);
         RockClimber rockClimber3 = new RockClimber("rock3", 3.50);
         climbing.addRockClimber(rockClimber2);
@@ -41,25 +41,25 @@ public class ClimbingTest {
     }
 
     @Test(expected = IllegalArgumentException.class)
-    public void addRockClimberExisting() throws IllegalArgumentException{
+    public void testAddRockClimberExisting() throws IllegalArgumentException{
         RockClimber rockClimber2 = new RockClimber("rock1", 2.50);
         climbing.addRockClimber(rockClimber2);
     }
 
     @Test
-    public void addRockClimber() {
+    public void testAddRockClimber() {
         RockClimber rockClimber2 = new RockClimber("rock2", 2.50);
         climbing.addRockClimber(rockClimber2);
     }
 
     @Test
-    public void removeRockClimberInvalid() {
+    public void testRemoveRockClimberInvalid() {
         boolean isRemoved = climbing.removeRockClimber("rock2");
         Assert.assertFalse(isRemoved);
     }
 
     @Test
-    public void removeRockClimber() {
+    public void testRemoveRockClimber() {
         boolean isRemoved = climbing.removeRockClimber("rock1");
         Assert.assertTrue(isRemoved);
     }
