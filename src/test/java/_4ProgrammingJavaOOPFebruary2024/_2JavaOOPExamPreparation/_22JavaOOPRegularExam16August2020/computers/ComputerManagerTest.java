@@ -1,4 +1,4 @@
-package _4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.computers;
+package _4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._22JavaOOPRegularExam16August2020.computers;
 
 import org.junit.Assert;
 import org.junit.Before;
@@ -6,8 +6,6 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 public class ComputerManagerTest {
 
