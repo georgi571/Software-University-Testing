@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499513b4-c578-4d42-bad9-85e2c9b74f0c" name="Changes" comment="add solution">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_06JavaOOPRetakeExam18April2023/carShop/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_06JavaOOPRetakeExam18April2023/carShop/CarShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_06JavaOOPRetakeExam18April2023/carShop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_06JavaOOPRetakeExam18April2023/carShop/CarShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_07JavaOOPRetakeExam19December2022/magicGame/Magic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_07JavaOOPRetakeExam19December2022/magicGame/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_07JavaOOPRetakeExam19December2022/magicGame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_07JavaOOPRetakeExam19December2022/magicGame/MagicianTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,29 +62,14 @@
       <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._06JavaOOPRetakeExam18April2023.carShop" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._04JavaOOPRegularExam5August2023.bank" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._03JavaOOPRetakeExam15August2023.handball" />
-      <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._02JavaOOPRegularExam9December2023.scubaDive" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CarShopTest">
-    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Software_University-Maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._04JavaOOPRegularExam5August2023.bank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._04JavaOOPRegularExam5August2023.bank" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._04JavaOOPRegularExam5August2023.bank.BankTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MagicianTest">
     <configuration name="CarShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
@@ -116,32 +101,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicianTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots.ServiceTest" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame.MagicianTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceTest.testForSale" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicianTest.removeMagicTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._05JavaOOPRegularExam8April2023.robots.ServiceTest" />
-      <option name="METHOD_NAME" value="testForSale" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame.MagicianTest" />
+      <option name="METHOD_NAME" value="removeMagicTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicianTest.testSetUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Software_University-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._07JavaOOPRetakeExam19December2022.magicGame.MagicianTest" />
+      <option name="METHOD_NAME" value="testSetUserName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MagicianTest" />
+        <item itemvalue="JUnit.MagicianTest.testSetUserName" />
+        <item itemvalue="JUnit.MagicianTest.removeMagicTrue" />
         <item itemvalue="JUnit.CarShopTest" />
         <item itemvalue="JUnit.CarShopTest.findAllCarByModel" />
-        <item itemvalue="JUnit.ServiceTest" />
-        <item itemvalue="JUnit.ServiceTest.testForSale" />
-        <item itemvalue="JUnit.BankTest" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710057801142</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add solution">
+      <option name="closed" value="true" />
+      <created>1710059444993</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710059444993</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
