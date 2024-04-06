@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499513b4-c578-4d42-bad9-85e2c9b74f0c" name="Changes" comment="add solution">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_21JavaOOPRetakeExam22August2020/garage/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_21JavaOOPRetakeExam22August2020/garage/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_21JavaOOPRetakeExam22August2020/garage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_2JavaOOPExamPreparation/_21JavaOOPRetakeExam22August2020/garage/GarageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_3Exam/_JavaOOPRegularExam6April2024/busyWaiters/FullTimeWaiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_3Exam/_JavaOOPRegularExam6April2024/busyWaiters/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_3Exam/_JavaOOPRegularExam6April2024/busyWaiters/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_3Exam/_JavaOOPRegularExam6April2024/busyWaiters/RestaurantTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +45,14 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SoftwareUniversity/Software-University-Testing/src/test/java&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/SoftwareUniversity/Software-University-Testing/src/test/java/_4ProgrammingJavaOOPFebruary2024&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftwareUniversity\Software-University-Testing\src\test\java\_4ProgrammingJavaOOPFebruary2024" />
       <recent name="D:\SoftwareUniversity\Software-University-Testing\src\test\java" />
       <recent name="D:\SoftwareUniversity\Software-University-Testing\src\main\java\_4ProgrammingJavaOOPFebruary2024\_2JavaOOPExamPreparation\_01JavaOOPRetakeExam19December2023" />
-      <recent name="D:\SoftwareUniversity\Software-University-Testing\src\test\java\_4ProgrammingJavaOOPFebruary2024" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -61,85 +62,87 @@
       <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="bank" />
+      <recent name="busyWaiters" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.garage" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.computers" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._20JavaOOPRegularExam12December2020.bankSafe" />
-      <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._19JavaOOPRetakeExam19December2020.blueOrigin" />
-      <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._18JavaOOPRegularExam10April2021.aquarium" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GarageTest">
-    <configuration name="BankVaultTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RestaurantTests">
+    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._20JavaOOPRegularExam12December2020.bankSafe.*" />
+          <option name="PATTERN" value="bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._20JavaOOPRegularExam12December2020.bankSafe" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._20JavaOOPRegularExam12December2020.bankSafe.BankVaultTest" />
+      <option name="PACKAGE_NAME" value="bank" />
+      <option name="MAIN_CLASS_NAME" value="bank.BankTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankVaultTest.testAddItemExisting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest.getCapacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._20JavaOOPRegularExam12December2020.bankSafe.*" />
+          <option name="PATTERN" value="bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._20JavaOOPRegularExam12December2020.bankSafe" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._20JavaOOPRegularExam12December2020.bankSafe.BankVaultTest" />
-      <option name="METHOD_NAME" value="testAddItemExisting" />
+      <option name="PACKAGE_NAME" value="bank" />
+      <option name="MAIN_CLASS_NAME" value="bank.BankTest" />
+      <option name="METHOD_NAME" value="getCapacity" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest.getCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.computers.*" />
+          <option name="PATTERN" value="bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.computers" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.computers.ComputerManagerTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="bank" />
+      <option name="MAIN_CLASS_NAME" value="bank.BankTest" />
+      <option name="METHOD_NAME" value="getCount" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GarageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest.getName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.garage.*" />
+          <option name="PATTERN" value="bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.garage" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.garage.GarageTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="bank" />
+      <option name="MAIN_CLASS_NAME" value="bank.BankTest" />
+      <option name="METHOD_NAME" value="getName" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpaceshipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RestaurantTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._19JavaOOPRetakeExam19December2020.blueOrigin.*" />
+          <option name="PATTERN" value="_4ProgrammingJavaOOPFebruary2024._3Exam._JavaOOPRegularExam6April2024.busyWaiters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._19JavaOOPRetakeExam19December2020.blueOrigin" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._19JavaOOPRetakeExam19December2020.blueOrigin.SpaceshipTest" />
+      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._3Exam._JavaOOPRegularExam6April2024.busyWaiters" />
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._3Exam._JavaOOPRegularExam6April2024.busyWaiters.RestaurantTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GarageTest" />
-        <item itemvalue="JUnit.ComputerManagerTest" />
-        <item itemvalue="JUnit.BankVaultTest" />
-        <item itemvalue="JUnit.BankVaultTest.testAddItemExisting" />
-        <item itemvalue="JUnit.SpaceshipTest" />
+        <item itemvalue="JUnit.RestaurantTests" />
+        <item itemvalue="JUnit.BankTest" />
+        <item itemvalue="JUnit.BankTest.getCount" />
+        <item itemvalue="JUnit.BankTest.getCapacity" />
+        <item itemvalue="JUnit.BankTest.getName" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +431,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710084045447</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="add solution">
+      <option name="closed" value="true" />
+      <created>1710084679253</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1710084679253</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -442,6 +453,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/Software_University_Testing$TeamTest.ic" NAME="TeamTest Coverage Results" MODIFIED="1710055410648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._03JavaOOPRetakeExam15August2023.handball.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Software_University_Testing$RestaurantTest.ic" NAME="RestaurantTest Coverage Results" MODIFIED="1710680051051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>busyWaiters.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Software_University_Testing$ExcavationTest.ic" NAME="ExcavationTest Coverage Results" MODIFIED="1710067429845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._09JavaOOPRetakeExam22August2022.archeologicalExcavations.*</FILTER>
