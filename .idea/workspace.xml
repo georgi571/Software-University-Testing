@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499513b4-c578-4d42-bad9-85e2c9b74f0c" name="Changes" comment="add solution">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_3Exam/_JavaOOPRegularExam6April2024/busyWaiters/FullTimeWaiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_3Exam/_JavaOOPRegularExam6April2024/busyWaiters/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_4ProgrammingJavaOOPFebruary2024/_3Exam/_JavaOOPRegularExam6April2024/busyWaiters/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/_4ProgrammingJavaOOPFebruary2024/_3Exam/_JavaOOPRegularExam6April2024/busyWaiters/RestaurantTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit3 Test Class" />
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -37,17 +34,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SoftwareUniversity/Software-University-Testing/src/test/java/_4ProgrammingJavaOOPFebruary2024&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "last_opened_file_path": "D:/SoftwareUniversity/Software-University-Testing/src/test/java/_4ProgrammingJavaOOPFebruary2024",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SoftwareUniversity\Software-University-Testing\src\test\java\_4ProgrammingJavaOOPFebruary2024" />
@@ -62,78 +60,16 @@
       <recent name="_4ProgrammingJavaOOPFebruary2024._10TestDrivenDevelopment._1Lab" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="scubaDive" />
+      <recent name="dolphinsPlay" />
       <recent name="bank" />
       <recent name="busyWaiters" />
       <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.garage" />
-      <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._21JavaOOPRetakeExam22August2020.computers" />
-      <recent name="_4ProgrammingJavaOOPFebruary2024._2JavaOOPExamPreparation._20JavaOOPRegularExam12December2020.bankSafe" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RestaurantTests">
-    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Software_University-Maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bank" />
-      <option name="MAIN_CLASS_NAME" value="bank.BankTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankTest.getCapacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Software_University-Maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bank" />
-      <option name="MAIN_CLASS_NAME" value="bank.BankTest" />
-      <option name="METHOD_NAME" value="getCapacity" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankTest.getCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Software_University-Maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bank" />
-      <option name="MAIN_CLASS_NAME" value="bank.BankTest" />
-      <option name="METHOD_NAME" value="getCount" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankTest.getName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Software_University-Maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bank" />
-      <option name="MAIN_CLASS_NAME" value="bank.BankTest" />
-      <option name="METHOD_NAME" value="getName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestaurantTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._3Exam._JavaOOPRegularExam6April2024.busyWaiters.Main" />
       <module name="Software_University-Maven" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +77,67 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="_4ProgrammingJavaOOPFebruary2024._3Exam._JavaOOPRegularExam6April2024.busyWaiters" />
-      <option name="MAIN_CLASS_NAME" value="_4ProgrammingJavaOOPFebruary2024._3Exam._JavaOOPRegularExam6April2024.busyWaiters.RestaurantTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Software_University-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scubaDive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scubaDive" />
+      <option name="MAIN_CLASS_NAME" value="scubaDive.DivingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivingTest.addDeepWaterDiver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Software_University-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scubaDive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scubaDive" />
+      <option name="MAIN_CLASS_NAME" value="scubaDive.DivingTest" />
+      <option name="METHOD_NAME" value="addDeepWaterDiver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivingTest.getCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Software_University-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scubaDive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scubaDive" />
+      <option name="MAIN_CLASS_NAME" value="scubaDive.DivingTest" />
+      <option name="METHOD_NAME" value="getCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DolphinsPlayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Software_University-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dolphinsPlay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dolphinsPlay" />
+      <option name="MAIN_CLASS_NAME" value="dolphinsPlay.DolphinsPlayTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RestaurantTests" />
-        <item itemvalue="JUnit.BankTest" />
-        <item itemvalue="JUnit.BankTest.getCount" />
-        <item itemvalue="JUnit.BankTest.getCapacity" />
-        <item itemvalue="JUnit.BankTest.getName" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DivingTest" />
+        <item itemvalue="JUnit.DivingTest.addDeepWaterDiver" />
+        <item itemvalue="JUnit.DivingTest.getCount" />
+        <item itemvalue="JUnit.DolphinsPlayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710084679253</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="add solution">
+      <option name="closed" value="true" />
+      <created>1712414670400</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1712414670400</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
