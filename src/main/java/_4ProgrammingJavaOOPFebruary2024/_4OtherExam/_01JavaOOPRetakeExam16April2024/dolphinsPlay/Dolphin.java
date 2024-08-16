@@ -1,4 +1,4 @@
-package _4ProgrammingJavaOOPFebruary2024._4OtherExam._JavaOOPRetakeExam16April2024.dolphinsPlay;
+package _4ProgrammingJavaOOPFebruary2024._4OtherExam._01JavaOOPRetakeExam16April2024.dolphinsPlay;
 
 public class Dolphin {
     private String type;

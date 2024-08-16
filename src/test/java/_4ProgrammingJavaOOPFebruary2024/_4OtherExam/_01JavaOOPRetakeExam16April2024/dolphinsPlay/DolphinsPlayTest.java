@@ -1,7 +1,5 @@
-package _4ProgrammingJavaOOPFebruary2024._4OtherExam._JavaOOPRetakeExam16April2024.dolphinsPlay;
+package _4ProgrammingJavaOOPFebruary2024._4OtherExam._01JavaOOPRetakeExam16April2024.dolphinsPlay;
 
-import _4ProgrammingJavaOOPFebruary2024._4OtherExam._JavaOOPRetakeExam16April2024.dolphinsPlay.Dolphin;
-import _4ProgrammingJavaOOPFebruary2024._4OtherExam._JavaOOPRetakeExam16April2024.dolphinsPlay.DolphinsPlay;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
